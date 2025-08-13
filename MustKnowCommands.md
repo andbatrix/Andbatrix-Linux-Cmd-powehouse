@@ -1,7 +1,7 @@
 # 🐧 Linux Command Cheatsheet for DevOps  
 [![DevOps Journey](https://img.shields.io/badge/DevOps-Journey-blue)](https://github.com/yourusername/devops-journey)  
 [![Linux Mastery](https://img.shields.io/badge/Linux-CLI%20Mastery-green)](https://linuxjourney.com)  
-[![Made by Patrice](https://img.shields.io/badge/Made%20by-Patrice%20DevOps%20Engineer-orange)](https://github.com/andbatrix)
+[![Made by Patrice](https://img.shields.io/badge/Made%20by-Patrice%20DevOps%20Engineer-orange)](https://github.com/patricewoehlke)
 
 ---
 
